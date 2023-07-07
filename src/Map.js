@@ -1,5 +1,4 @@
 import React,{useState,useEffect} from 'react';
-import data1 from './db.json';
 import ReactMapGl, { Marker,Popup } from 'react-map-gl';
 import "mapbox-gl/dist/mapbox-gl.css";
 import axios from 'axios';
